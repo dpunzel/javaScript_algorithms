@@ -36,4 +36,4 @@ function swap(arr, i, j){
 }
 
 
-quickSort([11,8,14,3,6,2,7],0,6);
+console.log(quickSort([11,8,14,3,6,2,7],0,6));
